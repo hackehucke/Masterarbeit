@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Daten (falls groß)
+data/*.csv
+data/*.npy
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/

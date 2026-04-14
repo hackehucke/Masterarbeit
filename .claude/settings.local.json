@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python update_notebook2.py)",
+      "Bash(rm update_notebook2.py)"
+    ]
+  }
+}

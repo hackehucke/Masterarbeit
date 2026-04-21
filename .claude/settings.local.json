@@ -2,7 +2,14 @@
   "permissions": {
     "allow": [
       "Bash(python update_notebook2.py)",
-      "Bash(rm update_notebook2.py)"
+      "Bash(rm update_notebook2.py)",
+      "Bash(python -c ':*)",
+      "Bash(python fix_cell3.py)",
+      "Bash(rm fix_cell3.py)",
+      "Bash(python fix_cell3b.py)",
+      "Bash(rm fix_cell3b.py)",
+      "Bash(python fix_cell5_15.py)",
+      "Bash(rm fix_cell5_15.py)"
     ]
   }
 }
